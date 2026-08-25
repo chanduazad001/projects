@@ -101,6 +101,20 @@ body {
   background: var(--tag-bg);
 }
 
+.topnav-note {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0.45rem 1.5rem;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+}
+
+.topnav-note a {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
 main {
   max-width: 880px;
   margin: 0 auto;
